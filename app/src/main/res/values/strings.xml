@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">My Quizzes</string>
+    <string name="score_0">Score: 0</string>
+    <string name="quextion_1_x">Quextion: 1/x</string>
+    <string name="_00_30">00:30</string>
+    <string name="here_will_be_the_question_text_nhere_will_be_the_question_text_nhere_will_be_the_question_text">Here will be the Question text\nHere will be the Question text\nHere will be the Question text</string>
+    <string name="answer_1">Answer 1</string>
+    <string name="answer_2">Answer 2</string>
+    <string name="answer_3">Answer 3</string>
+    <string name="answer_4">Answer 4</string>
+    <string name="confirm">Confirm</string>
+    <string name="my_quizzes">My Quizzes</string>
+    <string name="highscore_0">Highscore: 0</string>
+    <string name="lets_start">Lets Start</string>
+    <string name="todo">TODO</string>
+</resources>
